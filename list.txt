@@ -1,2 +1,1 @@
-asa1997/test_repo_bes/dummy,0.0.1
 asa1997/test_repo_bes/dummy2,0.0.1
